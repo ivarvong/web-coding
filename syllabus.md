@@ -261,7 +261,7 @@ Think about who handled it (that is, the topic) better:
 
 * Motherboard: <https://www.muckrock.com/drone-census/>
 * Muckrock: <https://www.muckrock.com/drone-census/>
-* Pitch Interactive: <ttp://drones.pitchinteractive.com/>
+* Pitch Interactive: <http://drones.pitchinteractive.com/>
 * A Quiet Disposition: <http://aquietdisposition.com/>
 
 Why? How? What aspects are more or less compelling, what would you say is a better approach to communicating this material?
